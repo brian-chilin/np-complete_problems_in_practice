@@ -24,7 +24,7 @@ The color of v<sub>a</sub> ≠ v<sub>b</sub>
 Graph coloring is used to model wireless networks by making a graph of the network. Each client becomes a vertex, and edges are added between the vertices of clients that may interfere with each other. K is the number of frequencies available (Bhuyan, 2023). The problem can also have special cases that the graph coloring problem doesn’t model well but can be altered to do so. Examples could be devices that work best on certain frequencies and if edges can have weights depicting how much interference is acceptable and trying to minimize the sum of edge weights of same-color adjacent vertices. 
 
 ### Example 
-Call this graph G.
+Call this graph G.  
 ![Graph G depicting four nodes and five edges.](example_graphG.jpg)
 
 Color(G, 3) is a True instance. 'This graph can be colored such that no two adjacent vertices share a color with three colors'. Here’s an example of a valid coloring:  
