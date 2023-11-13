@@ -25,7 +25,7 @@ Graph coloring is used to model wireless networks by making a graph of the netwo
 
 ### Example 
 Call this graph G.
-![Graph G depicting four nodes and five edges.](example_graphG.png)
+![Graph G depicting four nodes and five edges.](example_graphG.jpg)
 
 Color(G, 3) is a True instance. 'This graph can be colored such that no two adjacent vertices share a color with three colors'. Here’s an example of a valid coloring:  
 - c<sub>1</sub> -> v<sub>1</sub>  
